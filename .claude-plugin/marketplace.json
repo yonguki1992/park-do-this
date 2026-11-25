@@ -1,0 +1,13 @@
+{
+  "name": "park-do-this",
+  "owner": { "name": "yonguki1992" },
+  "metadata": { "description": "이병 박현준 한국어 코딩 에이전트 스킬 마켓플레이스" },
+  "plugins": [
+    {
+      "name": "park-hyun-jun",
+      "source": "./plugins/park-hyun-jun",
+      "description": "이병 박현준의 짧은 한국어 작업 보고",
+      "keywords": ["persona", "korean", "coding-agent", "park-hyun-jun"]
+    }
+  ]
+}
