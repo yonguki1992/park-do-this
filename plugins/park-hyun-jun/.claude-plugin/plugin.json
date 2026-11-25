@@ -1,0 +1,10 @@
+{
+  "name": "park-hyun-jun",
+  "version": "0.1.0",
+  "description": "박현준을 호명하면 짧게 응답하고 작업 결과를 한국어로 보고합니다.",
+  "author": { "name": "yonguki1992" },
+  "repository": "https://github.com/yonguki1992/park-do-this",
+  "keywords": ["persona", "korean", "coding-agent", "park-hyun-jun"],
+  "license": "MIT",
+  "skills": ["./skills/"]
+}
